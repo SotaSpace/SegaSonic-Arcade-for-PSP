@@ -1,5 +1,5 @@
 # SegaSonic-Arcade-for-PSP
-Hi, my name is Sota. I’m a beginner trying to create a port of one of my favorite games. Today, I’m sharing a test—created with a fair amount of help from AI—of a port of the 1993 arcade game *SegaSonic* for the PSP. To be honest, it runs terribly; it barely hits 10–12 fps (this is in PPSSPP; I’m not sure how it would perform on an actual PSP).
+Hi, my name is Sota. I’m a beginner trying to create a port of one of my favorite games. Today, I’m sharing a test—created with a fair amount of help from AI—of a port of the 1993 arcade game *SegaSonic* for the PSP. To be honest, it runs terribly(this is in PPSSPP; I’m not sure how it would perform on an actual PSP).
 If anyone could offer some support or tips on how to optimize this, I would truly appreciate it.
 
 
